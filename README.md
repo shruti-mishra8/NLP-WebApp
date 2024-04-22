@@ -1,3 +1,6 @@
+[![Python app test with github actions](https://github.com/shruti-mishra8/NLP-WebApp/actions/workflows/devops.yml/badge.svg)](https://github.com/shruti-mishra8/NLP-WebApp/actions/workflows/devops.yml)
+
+
 # NLP-WebApp
 
 ## Creating a virtual environment
