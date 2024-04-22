@@ -10,6 +10,8 @@
 ## Creating empty files
 1. Requirements.txt, Makefile, main.py Dockerfile using touch command [touch requirements.txt]
 2. Populate Makefile [To add steps that are invovled in the project life cycle]
+3. Populate requirements.txt with all the necessary tools
+    3.1 To freeze the version with version number   `pip freeze | less `
 
 
 ## Makind directory
@@ -20,5 +22,5 @@
 ## Git push
 1. git status
 2. git add *
-3. git commit 'message'
+3. git commit -m 'message'
 4. git push
