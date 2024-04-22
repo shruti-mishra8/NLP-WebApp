@@ -16,7 +16,6 @@
 3. Populate requirements.txt with all the necessary tools
     3.1 To freeze the version with version number   `pip freeze | less `
 
-
 ## Makind directory
 1. mkdir mylib
 2. touch mylib/__init__.py [so that python can import it]
@@ -29,7 +28,14 @@
 4. Git pull
 4. git push
 
-
 ## Setup github action for CI/CD
 1. Go to repo and click action and add the .yaml file
+2. Make changes in yml file as needed
 
+## cli and test case
+1. test.py  
+2. cli-fire.py `touch cli-fire.py` insert the code then `chmod +x cli-fire.py` 
+    2.1 `./cli-fire.py -- help`
+    2.2 `./cli-fire.py`
+    2.3 `./cli-fire.py --length 10`
+    2.4 `./cli-fire.py --length 10 | less`
