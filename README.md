@@ -39,3 +39,10 @@
     2.2 `./cli-fire.py`
     2.3 `./cli-fire.py --length 10`
     2.4 `./cli-fire.py --length 10 | less`
+    2.5 `./cli-fire.py search_wiki "Virat Kohli"`
+    
+3. pip install Ipython >> `ipython` >> run jupyter notebook
+
+![alt text](image.png)
+
+
