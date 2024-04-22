@@ -1,3 +1,6 @@
+[![Python app test with github actions](https://github.com/shruti-mishra8/NLP-WebApp/actions/workflows/devops.yml/badge.svg)](https://github.com/shruti-mishra8/NLP-WebApp/actions/workflows/devops.yml)
+
+
 # NLP-WebApp
 
 ## Creating a virtual environment
@@ -25,6 +28,7 @@
 3. git commit -m 'message'
 4. Git pull
 4. git push
+
 
 ## Setup github action for CI/CD
 1. Go to repo and click action and add the .yaml file
