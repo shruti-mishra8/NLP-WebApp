@@ -24,3 +24,7 @@
 2. git add *
 3. git commit -m 'message'
 4. git push
+
+## Setup github action for CI/CD
+1. Go to repo and click action and add the .yaml file
+
