@@ -23,6 +23,7 @@
 1. git status
 2. git add *
 3. git commit -m 'message'
+4. Git pull
 4. git push
 
 ## Setup github action for CI/CD
