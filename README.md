@@ -40,9 +40,12 @@
     2.3 `./cli-fire.py --length 10`
     2.4 `./cli-fire.py --length 10 | less`
     2.5 `./cli-fire.py search_wiki "Virat Kohli"`
-    
+
 3. pip install Ipython >> `ipython` >> run jupyter notebook
 
 ![alt text](image.png)
 
 
+# Note: 
+1. When adding some new library to install, add it in the requirements.txt and run `make install` in the terminal
+2. 
