@@ -1,4 +1,4 @@
-FROM python:3.10.13-slim-buster
+FROM python:3.10.14-slim-buster
 
 RUN mkdir -p /app
 COPY . main.py /app/
