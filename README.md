@@ -54,3 +54,6 @@
 ## Containerization
 1. Dockerfile
 2. Add build inside Makefile `docker build -t deploy-fastapi .` Then `make build`
+3. `docker image ls` to see the list of all contianers
+4. Add `docker run -p 127.0.0.1:8080:8080 b7b1a55db86f` in makefile and then `docker run` in the terminal
+
