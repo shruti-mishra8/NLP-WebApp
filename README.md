@@ -48,4 +48,9 @@
 
 # Note: 
 1. When adding some new library to install, add it in the requirements.txt and run `make install` in the terminal
-2. 
+2. Run make commands when required
+3. Git push after adding some new functionality
+
+## Containerization
+1. Dockerfile
+2. Add build inside Makefile `docker build -t deploy-fastapi .` Then `make build`
